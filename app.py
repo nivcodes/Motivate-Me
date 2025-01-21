@@ -84,7 +84,7 @@ def generate_message(name, challenge, accomplishment, style):
     return df_response[0].RESPONSE
 
 # Streamlit app layout
-st.title("AI-Powered Hype Man 🎉")
+st.title("Motivate Me! 🎉")
 st.write("Welcome to your personal hype session! Ready to feel like a superstar?")
 
 # User input form
