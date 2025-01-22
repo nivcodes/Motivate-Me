@@ -151,16 +151,16 @@ as (
 
 ### Step 5: Create the Streamlit app
 
--Click on the streamlit tab on the left.
--Click on + Streamlit App button on the right
--Give the App a name (like "Motivate Me!")
--Select the warehouse to run the App (a Small WH will be enough)
--Choose the MOTIVATE_ME_DB database and APP_DATA schema
+- Click on the streamlit tab on the left.
+- Click on + Streamlit App button on the right
+- Give the App a name (like "Motivate Me!")
+- Select the warehouse to run the App (a Small WH will be enough)
+- Choose the MOTIVATE_ME_DB database and APP_DATA schema
 
 ### Step 6: Add the code and run!
 
--In the streamlit app edit window, paste the code in "app.py" (Note: you may need to add the packages in the package manager on screen)
--Run the app! Follow the instructions below or on-screen.
+- In the streamlit app edit window, paste the code in "app.py" (Note: you may need to add the packages in the package manager on screen)
+- Run the app! Follow the instructions below or on-screen.
 
 ### Usage
 
