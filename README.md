@@ -23,8 +23,8 @@ Prerequisites:
 
 Before you begin, ensure you have the following:
 
--Snowflake Account: Access to a Snowflake account where you can create databases and schemas.
--Data Files: A zip file named motivate_me_data.zip (located in this repo) containing the documents to be uploaded.
+- Snowflake Account: Access to a Snowflake account where you can create databases and schemas.
+- Data Files: A zip file named motivate_me_data.zip (located in this repo) containing the documents to be uploaded.
 
 ### Step 1: Set Up Snowflake Environment
 
@@ -95,13 +95,12 @@ Extract the contents of motivate_me_data.zip to a local directory.
 
 #### Open the Upload Location
 
-**In Snowflake, click "Data->Databases" in the left sidebar. 
-**Then click on the MOTIVATE_ME_DB->APP_DATA->STAGES->DOCS. 
+- In Snowflake, click "Data->Databases" in the left sidebar.
+- Then click on the MOTIVATE_ME_DB->APP_DATA->STAGES->DOCS. 
 
 #### Upload the Files:
 
-**On this page, click "+ Files" in the top right.
-**Upload the files.
+- On this page, click "+ Files" in the top right.- Upload the files.
 
 ### Step 3: Create the table to store chunks
 Run the following in the SQL worksheet:
